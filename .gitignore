@@ -1,0 +1,5 @@
+*log
+SD_Store
+node_modules
+.vscode
+*.csv
